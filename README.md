@@ -3,12 +3,12 @@
 
 ## Nice to meet you! 
 I am a passionate, driven, and creative software engineer with a background in hospitality, management, and photography. Creating, maintaining, and strengthening relationships, problem solving, and helping people is what drives me to succeed.  
-               I'm looking forward to connecting with you!
+I'm looking forward to connecting with you!
 
 
-- 🔭 I’m currently working on a Cheese pairing App with React! ...
+- 🔭 I’m currently working on a Cheese pairing App with React!
 
-- 👯 I’m looking to collaborate on anything fun! ...
+- 👯 I’m looking to collaborate on anything fun!
 
 
 - 😄 Pronouns: He/Him
